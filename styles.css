@@ -2,11 +2,11 @@
 /* CSS Document */
 
 body{
-	background-color: blue;
+	background-color: yellow;
 }
 main{
 	margin: 0 auto;
-	max-width: 60rem;
+	max-width: 50 rem;
 }
 h1, h2{
 	font-variant: small-caps;
